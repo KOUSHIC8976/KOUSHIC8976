@@ -51,8 +51,12 @@ Junior Data Engineer specializing in building reliable, production-style data pi
 * Engineered a decoupled compute architecture utilizing **DuckDB** for in-memory processing and **dbt** for advanced SQL transformations to track delivery SLA breaches.
 * Built a resilient data contract layer using **Great Expectations** to filter corrupted IoT sensor data without pipeline bottlenecks.
 
+####  [AutoMQ-Flink-Streaming](https://github.com/koushic8976/AutoMQ-Flink-Streaming)
+**Architecture:** `Python` • `AutoMQ` • `Apache Kafka` • `S3` •`Apache Flink`
+* A proof-of-concept demonstrating a seamless migration from traditional KRaft Kafka to AutoMQ (S3-backed storage) with exactly zero lines of code changed in the Apache Flink downstream compute layer with PermuteX as foundation.
+
 ####  [Code Cartographer](https://github.com/koushic8976/code-cartographer)
-**Architecture:** `Python` • `AST` • `Gemini API` • `HuggingFace`
+**Architecture:** `Python` • `AST` • `Gemini API` • `HuggingFace` • `Code-BERT`
 * A developer tool designed to instantly reverse-engineer and visually map legacy or undocumented Python codebases by parsing Abstract Syntax Trees (AST) into deterministic dependency graphs.
 
 ---
