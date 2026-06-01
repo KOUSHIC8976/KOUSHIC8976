@@ -42,6 +42,7 @@ Junior Data Engineer specializing in building reliable, production-style data pi
 ####  [RERA: Robustness Certification Data Pipeline](https://github.com/koushic8976/rera)
 **Architecture:** `Python` • `PyTorch` • `Docker` • `MLOps` • `DAG Orchestration`
 * Built a GPU-accelerated data orchestration pipeline for autonomous systems, reducing simulation bottlenecks by parallelizing 1M+ Bayesian tensor evaluations in local VRAM.
+* Tested initially on **SMARTS framework** and utilizes **Gymnasium** to orchestrate **RL environment**.
 * Processed complex vehicle telemetry using Directed Acyclic Graphs (DAGs) to transition from data correlation to causal root-cause extraction.
 * Decoupled the infrastructure into a deployable **Docker** container, generating automated JSON compliance artifacts and HTML dashboards for CI/CD integration.
 
