@@ -23,14 +23,14 @@ Junior Data Engineer specializing in building reliable, production-style data pi
 
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
-| **Orchestration & Transformation** | ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white) ![Great Expectations](https://img.shields.io/badge/-Great%20Expectations-EA526F?logo=python&logoColor=white)|
-| **Streaming & Event Processing**| ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) ![Flink](https://img.shields.io/badge/-Apache%20Flink-E6522C?logo=apacheflink&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
+| **Machine Learning & AI** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white) |
+| **Orchestration & Transformation** | ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white) ![Great Expectations](https://img.shields.io/badge/-Great%20Expectations-EA526F?logo=python&logoColor=white) |
+| **Streaming & Event Processing** | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) ![Flink](https://img.shields.io/badge/-Apache%20Flink-E6522C?logo=apacheflink&logoColor=white) |
 | **Compute & Storage** | ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black) ![Iceberg](https://img.shields.io/badge/-Apache%20Iceberg-231F20?logo=apache&logoColor=white) |
 | **Infra & DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
 
 ---
-
 ### 📂 Featured Projects
 
 ####  [PermuteX: Real-Time Streaming Pipeline](https://github.com/koushic8976/permutex)
