@@ -15,7 +15,7 @@
 
 ###  About Me
 
-Junior Data Engineer specializing in building reliable, production-style data pipelines using SQL, dbt, Airflow, and AWS. Developed an end-to-end analytics platform with idempotent ingestion, backfill handling, data quality checks, and cloud-based deployment. Familiar with Infrastructure-as-Code (Terraform) and containerized workflows (Docker). Focused on delivering stable, cost-aware, and scalable data systems.
+Data Engineer Intern specializing in building reliable, production-style data pipelines using SQL, dbt, Airflow, and AWS. Developed an end-to-end analytics platform with idempotent ingestion, backfill handling, data quality checks, and cloud-based deployment. Familiar with Infrastructure-as-Code (Terraform) and containerized workflows (Docker). Focused on delivering stable, cost-aware, and scalable data systems.
 
 ---
 
@@ -24,7 +24,6 @@ Junior Data Engineer specializing in building reliable, production-style data pi
 | Category | Stack |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
-| **Machine Learning & AI** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white) |
 | **Orchestration & Transformation** | ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white) ![Great Expectations](https://img.shields.io/badge/-Great%20Expectations-EA526F?logo=python&logoColor=white) |
 | **Streaming & Event Processing** | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) ![Flink](https://img.shields.io/badge/-Apache%20Flink-E6522C?logo=apacheflink&logoColor=white) |
 | **Compute & Storage** | ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black) ![Iceberg](https://img.shields.io/badge/-Apache%20Iceberg-231F20?logo=apache&logoColor=white) |
@@ -55,10 +54,6 @@ Junior Data Engineer specializing in building reliable, production-style data pi
 ####  [AutoMQ-Flink-Streaming](https://github.com/koushic8976/AutoMQ-Flink-Streaming)
 **Architecture:** `Python` • `AutoMQ` • `Apache Kafka` • `S3` •`Apache Flink`
 * A proof-of-concept demonstrating a seamless migration from traditional KRaft Kafka to AutoMQ (S3-backed storage) with exactly zero lines of code changed in the Apache Flink downstream compute layer with PermuteX as foundation.
-
-####  [Code Cartographer](https://github.com/koushic8976/code-cartographer)
-**Architecture:** `Python` • `AST` • `Gemini API` • `HuggingFace` • `Code-BERT`
-* A developer tool designed to instantly reverse-engineer and visually map legacy or undocumented Python codebases by parsing Abstract Syntax Trees (AST) into deterministic dependency graphs.
 
 ---
 
