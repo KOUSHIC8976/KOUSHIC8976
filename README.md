@@ -23,7 +23,7 @@ Data Engineer Intern specializing in building reliable, production-style data pi
 
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
 | **Orchestration & Transformation** | ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white) ![Great Expectations](https://img.shields.io/badge/-Great%20Expectations-EA526F?logo=python&logoColor=white) |
 | **Streaming & Event Processing** | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white) ![Flink](https://img.shields.io/badge/-Apache%20Flink-E6522C?logo=apacheflink&logoColor=white) |
 | **Compute & Storage** | ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black) ![Iceberg](https://img.shields.io/badge/-Apache%20Iceberg-231F20?logo=apache&logoColor=white) |
